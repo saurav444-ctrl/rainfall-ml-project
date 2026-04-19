@@ -1,7 +1,11 @@
 # 🌧️ Rainfall Prediction using Machine Learning
 
 ## 📌 Problem Statement
+India receives highly irregular rainfall across different regions and seasons. Some years there is too much rainfall causing floods. Some years there is too little causing droughts.
+The real problem is — can we use past rainfall data to predict how much rain a region will receive annually?
+Currently, traditional weather forecasting is expensive and complex. But with Machine Learning, we can use simple historical data to make accurate predictions — without needing complex weather equipment.
 Rainfall is a critical natural resource. This project uses historical rainfall data to build a Machine Learning model that predicts **Annual Rainfall** based on monthly and seasonal rainfall patterns.
+This is the problem my project solves."
 
 ---
 
